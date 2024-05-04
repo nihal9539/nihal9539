@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 ### Hi there 👋
-I am a self taught Fullstack developer.<br><br>🔭 I’m currently working on:<br>Improving My Full Stack development Skill.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br>
+I am a  Fullstack developer.<br><br>🔭 I’m currently working on:<br>Improving My Full Stack development Skill.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br>
 
 
 ## 🌐 Socials:
